@@ -1,0 +1,1 @@
+exports.LatLonEllipsoidal = require('geodesy').LatLonEllipsoidal;

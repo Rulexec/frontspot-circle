@@ -1,0 +1,20 @@
+{
+  "name": "frontspot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deps": "webpack --config deps.webpack.config.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "geodesy": "^1.1.3",
+    "leaflet": "1.3.1",
+    "babel-core": "6.25.0",
+    "babel-loader": "7.0.0",
+    "babel-preset-es2015-webpack": "6.4.3",
+    "webpack": "2.6.1"
+  }
+}
